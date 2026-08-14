@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T15:57:06.898Z",
+  "generatedAt": "2026-08-14T16:23:40.296Z",
   "source": "https://github.com/qq501987847/codex-app-manager-skins",
   "assetSource": "Local wallpaper candidates supplied by the repository owner",
   "sourceBuilder": "Codex-App-Manager/scripts/build-dream-skins-from-wallpapers.mjs",
@@ -23,9 +23,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 220437,
-      "sha256": "e58485af56132fb469c47cf247c4fad4b7b7a357908b7dfbebc5d2e9b3e18f19",
+      "codexVerified": null,
+      "bytes": 220428,
+      "sha256": "a73ad0abb3001e18982f11f69c6adca0d4cdc5eeb66bd0927f9d762f304e2efc",
       "pack": "packs/wallpaper-01-1.0.0.codexskin",
       "preview": "previews/wallpaper-01.webp"
     },
@@ -45,9 +45,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 39709,
-      "sha256": "14a50f6c9b19a917aa3216841bfabd7e6153b8752c37486cb6d91285ff9740cd",
+      "codexVerified": null,
+      "bytes": 39701,
+      "sha256": "740a4ae6ea7c9843d58aabede142c4e82fc6c5969e1188861265c95946020941",
       "pack": "packs/wallpaper-02-1.0.0.codexskin",
       "preview": "previews/wallpaper-02.webp"
     },
@@ -67,9 +67,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 150988,
-      "sha256": "5f4f4391c8f628924d68beb751500abb5d6f9117f7b2f1eb7c044cb1554c9c1f",
+      "codexVerified": null,
+      "bytes": 150980,
+      "sha256": "fde550fb72875224545d4c813c2c47098393952aaf1f37a05a42b485377ec266",
       "pack": "packs/wallpaper-03-1.0.0.codexskin",
       "preview": "previews/wallpaper-03.webp"
     },
@@ -89,9 +89,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 15243,
-      "sha256": "e69e23241da8a2a18f3996d12c5ac3c01dd57b3efb4e7437e4b61222ef67d58d",
+      "codexVerified": null,
+      "bytes": 15236,
+      "sha256": "15232e5a8e61ab813e0b157041f45f7933cfa0f0dab08975e0a38b950ac45bec",
       "pack": "packs/wallpaper-04-1.0.0.codexskin",
       "preview": "previews/wallpaper-04.webp"
     },
@@ -111,9 +111,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 372595,
-      "sha256": "d9c790c2e52f86a8d00551caa696d6c7c04074a6fe7c1ce2a4c4707a56bd5ed8",
+      "codexVerified": null,
+      "bytes": 372587,
+      "sha256": "a7cf3fa7cd096e84beab7fe044bd38bc8a6baf7bd14b0c33b17eefb51db9efc1",
       "pack": "packs/wallpaper-05-1.0.0.codexskin",
       "preview": "previews/wallpaper-05.webp"
     },
@@ -133,9 +133,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 314478,
-      "sha256": "7b558292cb344b1b30e7d37a4e74d9081f8e703e78c6af2db7e6b37854ed70fa",
+      "codexVerified": null,
+      "bytes": 314471,
+      "sha256": "bc9541098d50a473ef3bb4ddd27961f5123f442f724dbe35ec7d5f0f75a2425e",
       "pack": "packs/wallpaper-06-1.0.0.codexskin",
       "preview": "previews/wallpaper-06.webp"
     },
@@ -155,9 +155,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 71645,
-      "sha256": "f1f8f15a24391e35d936ad91d6f5c26de4b1f6a63d0ba333667b1299271743c7",
+      "codexVerified": null,
+      "bytes": 71635,
+      "sha256": "c3a5239b817dfbb46eda96febdfa2a839f35750bbc16f375086f68648f926571",
       "pack": "packs/wallpaper-07-1.0.0.codexskin",
       "preview": "previews/wallpaper-07.webp"
     },
@@ -177,9 +177,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 193193,
-      "sha256": "11e5290f5ceca49dd989aa4d918c3989112b80dce22932c7e258d12a34978651",
+      "codexVerified": null,
+      "bytes": 193186,
+      "sha256": "d8f6a112a90685047211804b8b7327e8ff7f65d1abed383ce128e82950904f24",
       "pack": "packs/wallpaper-08-1.0.0.codexskin",
       "preview": "previews/wallpaper-08.webp"
     },
@@ -199,9 +199,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 237923,
-      "sha256": "2a33f16d3c4f1ed3acc606c8310fbc181e399de36ea35dd08d55050312bd33a5",
+      "codexVerified": null,
+      "bytes": 237916,
+      "sha256": "7cef84e0c2c1d166f3562e3f618821a56048149d3969430e16aad5f013e65bba",
       "pack": "packs/wallpaper-09-1.0.0.codexskin",
       "preview": "previews/wallpaper-09.webp"
     },
@@ -221,9 +221,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 315932,
-      "sha256": "ee5ee1a0855caf35512289bf09bb20f1df4a2b5386a82db099e08403b4410a66",
+      "codexVerified": null,
+      "bytes": 315924,
+      "sha256": "b68a25bb8892abea06e9a4cc2b642a772a0d7e26c68125aa3d122be100db0ecd",
       "pack": "packs/wallpaper-10-1.0.0.codexskin",
       "preview": "previews/wallpaper-10.webp"
     },
@@ -243,9 +243,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 394134,
-      "sha256": "5a4a7221fdb443e8adfe720a73f441add721a1d14a586db50cbd0c9423386fd5",
+      "codexVerified": null,
+      "bytes": 394127,
+      "sha256": "b61de937c6a4d9bf0a38c6622b4ac7b54146b5557c1b42268a931e604bcdd03e",
       "pack": "packs/wallpaper-11-1.0.0.codexskin",
       "preview": "previews/wallpaper-11.webp"
     },
@@ -265,9 +265,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 160904,
-      "sha256": "9bb7c19e406f41ee6ea076f527db8e33e695798ac54916b9b71ce42b32a1c917",
+      "codexVerified": null,
+      "bytes": 160898,
+      "sha256": "cb975f12489fc73587707b0f9534de9e0317aacc4bc921f88747ec08c10bd337",
       "pack": "packs/wallpaper-12-1.0.0.codexskin",
       "preview": "previews/wallpaper-12.webp"
     },
@@ -287,9 +287,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 333335,
-      "sha256": "b60f49f6007a5235eea57d2e1441afc9451276895742ba80ce7870e99957b232",
+      "codexVerified": null,
+      "bytes": 333327,
+      "sha256": "d66bb7ca3764ade27fa0c12964d365b3c0dcbc39b54a4ec888b205fc06ed8170",
       "pack": "packs/wallpaper-13-1.0.0.codexskin",
       "preview": "previews/wallpaper-13.webp"
     },
@@ -309,9 +309,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 1374042,
-      "sha256": "63592d13c83d91f134a1590b8f0d6f861e410554236139e04d7eccea5576769b",
+      "codexVerified": null,
+      "bytes": 1374036,
+      "sha256": "04f3e698ebcb68199564991fcd063a9597225ab5d212761120d5ebb94edd11b4",
       "pack": "packs/wallpaper-14-1.0.0.codexskin",
       "preview": "previews/wallpaper-14.webp"
     },
@@ -331,9 +331,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 29919,
-      "sha256": "f1b90c908d3edba5cd0d3098804a7fa515e2ef194ec6ed7da7cb4db57f100548",
+      "codexVerified": null,
+      "bytes": 29911,
+      "sha256": "6756453e43cad080caa73fb8faa2dff85dc48132439b96ceee4ef67c4be40a16",
       "pack": "packs/wallpaper-15-1.0.0.codexskin",
       "preview": "previews/wallpaper-15.webp"
     },
@@ -353,9 +353,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 1059901,
-      "sha256": "b6dec985758ab54100257a86c1704b35d8194eb70bf3acc10e6ce22a7819f15f",
+      "codexVerified": null,
+      "bytes": 1059893,
+      "sha256": "12c2e7ad1ae1f73d7ce05c033c2784c5eb20d32819985a49604dced9de5cbf42",
       "pack": "packs/wallpaper-16-1.0.0.codexskin",
       "preview": "previews/wallpaper-16.webp"
     },
@@ -375,9 +375,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 246006,
-      "sha256": "2d5d392be4742e276b6b31b342b5327beaa61d8647898341f389adf70b4657c4",
+      "codexVerified": null,
+      "bytes": 245999,
+      "sha256": "0f9772cc12320fcd1f2ba0b84ed5078813bfeee656b4632a64b8a7544f72a3f0",
       "pack": "packs/wallpaper-17-1.0.0.codexskin",
       "preview": "previews/wallpaper-17.webp"
     },
@@ -397,9 +397,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 718323,
-      "sha256": "0563c41a888158e60e06f206426a25f2542d9e6f142d2f358c3b3a43896beb86",
+      "codexVerified": null,
+      "bytes": 718316,
+      "sha256": "eb343f76aa080bca5a495765a05f6f9962483e07e485b2cf39475bfd85a21830",
       "pack": "packs/wallpaper-18-1.0.0.codexskin",
       "preview": "previews/wallpaper-18.webp"
     },
@@ -419,9 +419,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 178315,
-      "sha256": "c05c2b3f9c972d808a7ba03614c149f118f77b9f38652c6628a9268421b258ff",
+      "codexVerified": null,
+      "bytes": 178308,
+      "sha256": "ff7f59bc90e65b54545786ff4819c4ab5ef7b96c1c46d7acc53f4a43e398d256",
       "pack": "packs/wallpaper-19-1.0.0.codexskin",
       "preview": "previews/wallpaper-19.webp"
     },
@@ -441,9 +441,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 259088,
-      "sha256": "2d3a1fca2c3cb690cb49db0aadd6d43819b5b468a47173449f7fb1fa1fbaa781",
+      "codexVerified": null,
+      "bytes": 259081,
+      "sha256": "50386478e206b95040935a5ea14063acd3e15d8bf9b06de277405545ed8159c7",
       "pack": "packs/wallpaper-20-1.0.0.codexskin",
       "preview": "previews/wallpaper-20.webp"
     },
@@ -463,9 +463,9 @@
         "wallpaper",
         "background"
       ],
-      "codexVerified": "26.715.21425",
-      "bytes": 1821764,
-      "sha256": "545dd0495d1ee45efa42460ad229f48c6dd5cd1f500a7d08c930cc5bb23687ca",
+      "codexVerified": null,
+      "bytes": 1821757,
+      "sha256": "c6c21a78d8ba1318c37c4ed45b2042bd4580f64e3140d5145c43d4f6d868b317",
       "pack": "packs/wallpaper-21-1.0.0.codexskin",
       "preview": "previews/wallpaper-21.webp"
     }
