@@ -20,7 +20,7 @@ const DEFAULT_INPUT = path.resolve(
 );
 const VERSION = "1.0.0";
 const CODE_THEME_ID = "absolutely";
-const AUTHOR = "Codex App Manager Team";
+const AUTHOR = "AWAI";
 const CODEX_VERIFIED = null;
 
 const CSS = `/* Wallpaper skin: intentionally scoped for complete runtime removal. */

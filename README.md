@@ -1,6 +1,6 @@
 # Codex App Manager Skins
 
-这是 Codex App Manager 的自有皮肤目录，提供可由 Manager 直接安装的 `.codexskin` 包。
+这是 AWAI 的自有皮肤目录，提供可由 Codex App Manager 直接安装的 `.codexskin` 包。
 
 ## 目录结构
 
@@ -27,4 +27,4 @@ node scripts/build-catalog.mjs --input ../Codex-App-Manager/dist/dream-skins-202
 
 这些主题使用仓库所有者提供的壁纸，默认许可证为 `personal-use`。发布包含人物、商标或第三方素材的壁纸前，请确认你拥有相应的再分发权利。
 
-品牌、`#69A5FA` 管理器主题色、AWAI 和 `api.awai.cc` 不属于皮肤包，由 Manager 自己负责展示和配置。
+AWAI 品牌、`#69A5FA` 管理器主题色和 `api.awai.cc` 地址由 Manager 负责展示和配置；皮肤包使用 `awai-<序号>` 作为稳定 ID。
