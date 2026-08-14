@@ -11,12 +11,13 @@ import path from "node:path";
 import process from "node:process";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
+const BUILD_DATE = new Date().toISOString().slice(0, 10).replaceAll("-", "");
 const DEFAULT_INPUT = path.resolve(
   ROOT,
   "..",
   "Codex-App-Manager",
   "dist",
-  "dream-skins-20260814-v3",
+  `dream-skins-${BUILD_DATE}`,
 );
 const VERSION = "1.0.0";
 const CODE_THEME_ID = "absolutely";

@@ -13,10 +13,13 @@ GitHub 是主源，Gitee 是备用源。两个仓库应保持同一份内容和�
 
 ## 本地重建
 
-在 Manager 仓库生成壁纸候选后运行：
+先在 Manager 仓库生成当天的 AWAI 皮肤候选，再在本仓库重建目录：
 
 ```bash
-node scripts/build-catalog.mjs --input ../Codex-App-Manager/dist/dream-skins-20260814-v3
+cd ../Codex-App-Manager
+node scripts/build-dream-skins-from-wallpapers.mjs
+cd ../Codex-App-Manager-Skins
+node scripts/build-catalog.mjs
 ```
 
 脚本会重新生成 `themes/`、`packs/`、`previews/` 和 `index.json`。`codeThemeIds` 使用 Codex 内置的 `absolutely`，这是当前 Manager 原生主题契约中的默认可用代码主题 ID。
