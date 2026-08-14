@@ -1,0 +1,28 @@
+# Codex App Manager Skins
+
+这是 Codex App Manager 的自有皮肤目录，提供可由 Manager 直接安装的 `.codexskin` 包。
+
+## 目录结构
+
+- `themes/<id>/`：可编辑的主题源文件。
+- `packs/<id>-<version>.codexskin`：Manager 可导入的发布包。
+- `previews/<id>.webp`：商店目录封面。
+- `index.json`：只使用相对路径的在线目录，Manager 会在下载前校验 SHA-256。
+
+GitHub 是主源，Gitee 是备用源。两个仓库应保持同一份内容和分支结构。
+
+## 本地重建
+
+在 Manager 仓库生成壁纸候选后运行：
+
+```bash
+node scripts/build-catalog.mjs --input ../Codex-App-Manager/dist/dream-skins-20260814-v3
+```
+
+脚本会重新生成 `themes/`、`packs/`、`previews/` 和 `index.json`。`codeThemeIds` 使用 Codex 内置的 `absolutely`，这是当前 Manager 原生主题契约中的默认可用代码主题 ID。
+
+## 发布注意
+
+这些主题使用仓库所有者提供的壁纸，默认许可证为 `personal-use`。发布包含人物、商标或第三方素材的壁纸前，请确认你拥有相应的再分发权利。
+
+品牌、`#69A5FA` 管理器主题色、AWAI 和 `api.awai.cc` 不属于皮肤包，由 Manager 自己负责展示和配置。
