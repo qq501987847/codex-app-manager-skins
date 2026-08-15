@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T18:58:03.579Z",
+  "generatedAt": "2026-08-15T09:31:51.891Z",
   "source": "https://github.com/qq501987847/codex-app-manager-skins",
   "assetSource": "Local wallpaper candidates supplied by the repository owner",
   "sourceBuilder": "Codex-App-Manager/scripts/build-dream-skins-from-wallpapers.mjs",
@@ -24,8 +24,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 220424,
-      "sha256": "ea6a26bc4170ca3e5bbdf48443787bb70971c308d7858ff827a0568b288bb7ef",
+      "bytes": 135581,
+      "sha256": "bfeb21d83fe55326ff30d36d5098bb44996ebea2d3372e3cf1ca8ef7c4e41ec3",
       "pack": "packs/awai-01-1.0.0.codexskin",
       "preview": "previews/awai-01.webp"
     },
@@ -68,8 +68,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 150975,
-      "sha256": "fdf95c25162e48abc9289a9206aa6d2aaa0007b7a8f096981a5d377a72f1089f",
+      "bytes": 101177,
+      "sha256": "c0ae9ab3ef73e1a440ab3769676eace5fa2fbbe382981da4d94917ad494f833f",
       "pack": "packs/awai-03-1.0.0.codexskin",
       "preview": "previews/awai-03.webp"
     },
@@ -112,8 +112,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 372582,
-      "sha256": "2ebfe7f2ccbe9706bb8e406649c3696c60f13784aa18a8a1f7351c4aad601369",
+      "bytes": 229199,
+      "sha256": "81e6e00f5352ebdbbcbc52db62697055b5a83b27b761d9ac02bd2fbf7c80b4de",
       "pack": "packs/awai-05-1.0.0.codexskin",
       "preview": "previews/awai-05.webp"
     },
@@ -134,8 +134,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 314466,
-      "sha256": "bb78aebb9a73a0779d23360a65172d33aae9b43ae338c85701aa80fcb0061b3d",
+      "bytes": 188888,
+      "sha256": "f46eead9a4324b8986d8b7141cec3d2132fcde27f4d004572b57afc1e97ed15e",
       "pack": "packs/awai-06-1.0.0.codexskin",
       "preview": "previews/awai-06.webp"
     },
@@ -266,8 +266,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 160890,
-      "sha256": "0ca85f7acf9a65a85fe4f5fcb2aa665336ef8df8c1ccda144590d8afbe3d3112",
+      "bytes": 107913,
+      "sha256": "e17549ff79caeb10bdbc6a1d814bbc276050ce7ddc70b543dbcf50b5c2bc2b6c",
       "pack": "packs/awai-12-1.0.0.codexskin",
       "preview": "previews/awai-12.webp"
     },
@@ -288,8 +288,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 333322,
-      "sha256": "cfb84d7d94eff64e9b847c38b7893962d627fae4fda57b2dbaef163c8ef0752b",
+      "bytes": 198079,
+      "sha256": "f7f7aaee865d9e9358ffa174d8930e58ac2a420710536b62950b04b91e3849a8",
       "pack": "packs/awai-13-1.0.0.codexskin",
       "preview": "previews/awai-13.webp"
     },
@@ -310,8 +310,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 1374029,
-      "sha256": "6abcd5f10bb1bed50f9786b80bac2c71d78d0eec79eee884aef29159176220fd",
+      "bytes": 756492,
+      "sha256": "6cd0590790628c516e2583c4875434862ff0cc06c2a5996f830cf8748941d8ef",
       "pack": "packs/awai-14-1.0.0.codexskin",
       "preview": "previews/awai-14.webp"
     },
@@ -354,8 +354,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 1059890,
-      "sha256": "86b9f4270d3cf747f70e264c51d8fc803ce5078ae78a63415f64d941a8954572",
+      "bytes": 599232,
+      "sha256": "b16aa4059fe370e7099162080542b915e88bfe2d88a7cce36e87f0143ec38800",
       "pack": "packs/awai-16-1.0.0.codexskin",
       "preview": "previews/awai-16.webp"
     },
@@ -398,8 +398,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 718312,
-      "sha256": "bce78243e937ef090634a15f0dcc26a36d46749ee40c1451e035eb888e7ee86b",
+      "bytes": 409077,
+      "sha256": "71c2c7c0425b55b1432a0648a2cf3e876f31c362cf1f85df49bb57aa88a88319",
       "pack": "packs/awai-18-1.0.0.codexskin",
       "preview": "previews/awai-18.webp"
     },
@@ -442,8 +442,8 @@
         "background"
       ],
       "codexVerified": null,
-      "bytes": 259075,
-      "sha256": "ccd600211ae60bc863b84f09f20d0fe8eadbdbf9aaf9ea895d31e7d636b1f4ea",
+      "bytes": 161890,
+      "sha256": "8a6ccc9424f384fa864b5f26147d38a577ffc7140128eccac48ea6287a307982",
       "pack": "packs/awai-20-1.0.0.codexskin",
       "preview": "previews/awai-20.webp"
     },
